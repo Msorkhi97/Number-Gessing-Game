@@ -4,7 +4,6 @@ b = 99
 from msvcrt import kbhit
 import random
 hads = random.randint(a,b)
-
 print (hads)
 while N != 'd':
      N = input ('hadse sys chetor ast ?'    )
